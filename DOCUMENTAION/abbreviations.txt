@@ -1,0 +1,3 @@
+IPOL-HS:Improved Partial Opposition-based Learning 
+HS:Harmony Search (HS)
+HPPQ:Harmony   Parallel Package Queries Processing
